@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - :computer: Blogging site: [ariG23498.github.io](https://ariG23498.github.io)
 
 
-![AritraRG's github stats](https://github-readme-stats.vercel.app/api?username=ariG23498)]
+![AritraRG's github stats](https://github-readme-stats.vercel.app/api?username=ariG23498)
