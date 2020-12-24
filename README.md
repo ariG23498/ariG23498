@@ -12,6 +12,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I get trained by my ML\DL models.
 - :computer: Blogging site: [ariG23498.github.io](https://ariG23498.github.io)
-
-
-![AritraRG's github stats](https://github-readme-stats.vercel.app/api?username=ariG23498)
