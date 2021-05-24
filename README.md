@@ -1,5 +1,5 @@
 ### Hi there, Aritra Roy Gosthipaty here :smile:
-- 🏋️ I’m currently working with [@wandb](https://github.com/wandb).
+- 🏋️ I’m currently working with [@pyimagesearch](https://www.pyimagesearch.com/).
 - 🌱 I’m currently learning about deeplearning.
 - 👯 I’m looking to collaborate on anything of my realm.
 - 📫 How to reach me: [@ariG23498](https://twitter.com/ariG23498)
